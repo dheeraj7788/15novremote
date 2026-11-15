@@ -82,7 +82,7 @@ fetch('https://typicode.com')
 -  Right Alignment
 
 Added a new line after commeting
-
+I have edited this file after push to remote repo.
 
 
 
