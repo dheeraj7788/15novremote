@@ -1,0 +1,14 @@
+site_name: MkLorum
+site_description: This is documentation site.
+site_author: Dheeraj Nagar
+
+theme:
+  name: material
+
+plugins:
+  - search
+
+nav:
+  - Home: 15Nov.md
+  - Getting Started: gettingstarted.md
+
